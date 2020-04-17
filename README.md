@@ -12,8 +12,7 @@ Discord Server community: https://discord.gg/N3StVHUhttps://discord.gg/N3StVHU
 HOW TO MAKE IT WORK
 
 You open the console and press exec autoexec.cfg or just autoexec
-Or go to Library press right click on Counter Strike : Global Offensive then click on Properties and then on 
-"Set Launch Options" and put +exec autoexec.cfg
+Or Enter launch options at Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...
 
 
 SUPPORT
