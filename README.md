@@ -6,9 +6,9 @@ I have a Hide And Seek (Chasemod)
 Server ip is: 78.47.226.148:27015           
 Discord Server community: https://discord.gg/N3StVHUhttps://discord.gg/N3StVHU
 
-
-
-
+WHERE TO PUT THE FILES
+You go to Steam > Library > Counter-Strike : Global Offensive (right click) > Properties > Local Files > Browse Local Files > csgo > cfg
+there you put those files
 HOW TO MAKE IT WORK
 
 You open the console and press exec autoexec.cfg or just autoexec
