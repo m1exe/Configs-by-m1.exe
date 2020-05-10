@@ -5,6 +5,7 @@ My Discord is: m1.exe#7257
 I have a Hide And Seek (Chasemod)        
 Server ip is: 78.47.226.148:27015           
 Discord Server community: https://discord.gg/N3StVHU
+My Forum Discord Server: https://discord.gg/kJan4Jd (The forum is in work because i don't have founds to buy a domain!)
 
 WHERE TO PUT THE FILES
 
