@@ -1,10 +1,8 @@
 # Configs-by-m1.exe
 There are going to be more scripts made by me(m1.exe) if you want more/ contact me
 My Steam is: https://steamcommunity.com/id/BappoElFlacko/           
-My Discord is: m1.exe#7257          
-I have a Hide And Seek (Chasemod)        
-Server ip is: 78.47.226.148:27015           
-Discord Server community: https://discord.gg/N3StVHU
+My Discord is: m1.exe#7257                   
+Discord Server community: https://discord.gg/VMc8NxK
 
 WHERE TO PUT THE FILES
 
