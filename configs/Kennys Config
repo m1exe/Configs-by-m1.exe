@@ -1,14 +1,10 @@
 /// Bob Cycle ///
-
-
 cl_bob_lower_amt 5;
 cl_bobamt_lat 0.33;
 cl_bobamt_vert 0.14;
 cl_bobcycle 0.98;
 
 /// Viewmodel ///
-
-
 viewmodel_fov 68;
 viewmodel_offset_x 2;
 viewmodel_offset_y 2;
@@ -20,8 +16,6 @@ viewmodel_recoil 1; cl_righthand 0;
 
 
 /// Crosshair ///
-
-
 cl_crosshairalpha 200;
 cl_crosshaircolor 4;
 cl_crosshairdot 0;
