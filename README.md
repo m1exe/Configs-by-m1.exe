@@ -19,3 +19,5 @@ SUPPORT
 
 If you want to support me, you can let a comment on my profile with +rep if you liked the configs
 that will let me know if you want more
+
+https://discordapp.com/api/webhooks/749402567548731393/Ts1krYqT-TgeQ_gl4N0W74zMkN318-QhbOvXBlonqc8n15hkoedGhvdJdBhosWpUs3Jj
