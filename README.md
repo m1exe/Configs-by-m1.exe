@@ -1,4 +1,4 @@
-# Configs-by-m1.exe
+# m1.exe Plugins/Configs
 There are going to be more scripts made by me(m1.exe) if you want more/ contact me
 My Steam is: https://steamcommunity.com/id/BappoElFlacko/           
 My Discord is: m1.exe#7257                   
